@@ -8,7 +8,7 @@
   "server": {
     "ip": "DaBoisSMPEID.aternos.me",
     "port": 47814,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
